@@ -1,0 +1,33 @@
+#div_blogPostBody {
+	
+}
+	#div_blogPostBodyTitle {
+		
+	}
+	#div_blogPostBodyContent {
+		
+	}
+.div_blogPostComment {
+	border:1px solid #757575;
+	border-radius:10px;
+	padding:5px;
+	overflow:hidden;
+}
+	.div_blogPostCommentTitle {
+		
+	}
+	.div_blogPostCommentContent {
+		
+	}
+	.form_blogPostCommentDeletion {
+		
+	}
+#div_blogPostCommentPostingArea {
+	
+}
+	#form_blogPostCommentPosting {
+		
+	}
+		.tableData_blogPostCommentInput {
+			width:60%;
+		}
